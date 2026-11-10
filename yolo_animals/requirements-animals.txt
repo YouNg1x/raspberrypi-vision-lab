@@ -1,0 +1,5 @@
+numpy>=1.24,<3
+ncnn
+Flask>=3,<4
+PyYAML>=6,<7
+# Install OpenCV via apt: python3-opencv, then use --system-site-packages venv.

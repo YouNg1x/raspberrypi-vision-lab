@@ -1,0 +1,5 @@
+numpy>=1.24,<3
+Flask>=3,<4
+PyYAML>=6,<7
+ncnn
+# OpenCV and CSI tools: sudo apt install python3-opencv opencv-data rpicam-apps

@@ -1,0 +1,4 @@
+numpy>=1.24,<3
+ncnn
+Flask>=3,<4
+# OpenCV is installed via apt: python3-opencv (use --system-site-packages venv)
