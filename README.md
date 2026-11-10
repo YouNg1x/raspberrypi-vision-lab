@@ -67,6 +67,15 @@ rpicam-hello --nopreview --timeout 3000
 
 ## 安装
 
+仓库地址：https://github.com/YouNg1x/raspberrypi-vision-lab
+
+当前仓库为私有，需要使用有访问权限的GitHub账号认证后克隆。若用于课程成员协作，请仓库所有者添加相应协作者。
+
+```bash
+git clone https://github.com/YouNg1x/raspberrypi-vision-lab.git
+cd raspberrypi-vision-lab
+```
+
 取得仓库后，在项目根目录执行：
 
 ```bash
